@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Franco Carrara
 
 ## 💫 About Me:
-I'm a 25 year old selftaught frontend/react developer from Argentina looking for my first job opportunity and continue learning about this amazing field.
+I'm a 25 year old self-taught frontend/react developer from Argentina looking for my first job opportunity and to continue learning about this amazing field.
 
 👀 I’m currently learning everything I need to filling my gaps to become a better programmer.
 
