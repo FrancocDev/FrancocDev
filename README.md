@@ -1,11 +1,7 @@
-
-
 # 👋 Hi, I'm Franco Carrara
 
 ## 💫 About Me:
-I'm a frontend/react developer from Argentina looking for my first job opportunity and to continue learning about this amazing field.
-
-👀 I’m currently learning everything I need to fill my gaps to become a better programmer.
+I'm a Full Stack Developer from Argentina. I'm currently working at Crombie.dev
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/francocarrara) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/francocdev) 
