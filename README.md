@@ -2,7 +2,7 @@
 
 *From commit to customer impact — with code, AI, and product thinking.*
 
-**Full Stack Developer → Product Engineer**  |  Product‑Minded  |  Next.js · NestJS · AWS
+**Full-Stack Engineer** | Product Engineering & Applied AI | Next.js · NestJS · AWS
 
 📍 Santa Fe, Argentina &nbsp;|&nbsp; 🎓 Computer Engineering @ UNL &nbsp;|&nbsp; 🌐 [francoc.dev](https://francoc.dev)
 
@@ -10,13 +10,11 @@
 
 ## About me
 
-I'm a **Full Stack Developer** with a **Computer Engineering** background and a product-first mindset.
+I'm a **Full-Stack Engineer** who takes products from architecture and customer needs through deployment.
 
-At **[Crombie](https://crombie.dev)**, I inherited an early-stage B2B MVP as the **sole developer**. I stabilized critical user flows, refactored the codebase from the ground up, and shipped features — including QuickBooks integrations and billing workflow optimizations — that contributed to a **566% MRR increase**.
+At **[Crombie](https://crombie.dev)**, I took **sole technical ownership** of an early-stage B2B SaaS, working **directly with a US-based client** to translate business requirements into shipped features. I helped scale core **MRR to more than 6x**, built a **CRM integration** that established a major new recurring-revenue channel, and opened the platform through partner APIs and an **MCP layer** for AI agent interactions.
 
-I'm **Anthropic-certified** in applied AI development and build AI-powered features in side projects alongside my core work. I own features end-to-end — from architecture and database design to deployment and customer impact.
-
-**Open to Full Stack & Product Engineer roles** where I can turn ambiguity into shipped product.
+I combine product judgment with hands-on engineering across TypeScript, Next.js, NestJS, AWS, APIs, integrations, and applied AI to turn customer problems into **reliable production software**.
 
 ---
 
