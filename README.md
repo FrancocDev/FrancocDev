@@ -94,7 +94,7 @@ I combine product judgment with hands-on engineering across TypeScript, Next.js,
 
 [![Portfolio](https://img.shields.io/badge/francoc.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://francoc.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francocarrara)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)](https://rxresu.me/francocdev/en)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)]([https://rxresu.me/francocdev/en](https://rxresu.me/francocdev/franco-carrara-full-stack-engineer))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@francoc.dev)
 
 ---
