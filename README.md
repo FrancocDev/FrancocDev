@@ -1,20 +1,43 @@
 # Hey, I'm Franco Carrara 👋
 
-*From commit to customer impact — with code, AI, and product thinking.*
+*Proposal-to-billing products, from architecture to customer impact.*
 
-**Full-Stack Engineer** | Product Engineering & Applied AI | Next.js · NestJS · AWS
+**Product Engineer** · Full-Stack · B2B SaaS · Payments & Integrations · APIs & MCP for AI agents
 
-📍 Santa Fe, Argentina &nbsp;|&nbsp; 🎓 Computer Engineering @ UNL &nbsp;|&nbsp; 🌐 [francoc.dev](https://francoc.dev)
+📍 Santa Fe, Argentina (remote, US clients) &nbsp;|&nbsp; 💼 Full-Stack Engineer @ [Crombie](https://crombie.dev) &nbsp;|&nbsp; 🌐 [francoc.dev](https://francoc.dev)
 
 ---
 
 ## About me
 
-I'm a **Full-Stack Engineer** who takes products from architecture and customer needs through deployment.
+I'm a **Product Engineer** with a full-stack background. I build and own B2B SaaS products end to end: discovery, architecture, payments and integrations, APIs, cloud infrastructure, and the product metrics that show what to build next.
 
-At **[Crombie](https://crombie.dev)**, I took **sole technical ownership** of an early-stage B2B SaaS, working **directly with a US-based client** to translate business requirements into shipped features. I helped scale core **MRR to more than 6x**, built a **CRM integration** that established a major new recurring-revenue channel, and opened the platform through partner APIs and an **MCP layer** for AI agent interactions.
+At **[Crombie](https://crombie.dev)** I'm the **sole engineer** on a proposal-to-billing SaaS for a US-based client, working directly with the client on discovery, prioritization, architecture and deployment.
 
-I combine product judgment with hands-on engineering across TypeScript, Next.js, NestJS, AWS, APIs, integrations, and applied AI to turn customer problems into **reliable production software**.
+- 📈 Grew core-platform **MRR more than 6x** over 18 months through product work on billing, integrations and critical user flows.
+- 🔌 Launched a native **GoHighLevel** integration that became a recurring-revenue channel worth **more than 8x the core platform's MRR**.
+- 💸 Designed an **event-driven integration engine** across Stripe, QuickBooks, Xero, GoHighLevel, Karbon, Zapier and outbound webhooks. The platform processed **$6M+ in payment volume** over the last 12 months.
+- 🤖 Opened the platform to partners and **AI agents** with permission-scoped API keys, REST + OpenAPI and an **MCP server** on the same NestJS service layer.
+- 🔐 Redesigned authorization: organization-level **RBAC**, time-boxed Super Admin support access and **MFA** on Amazon Cognito.
+- 📊 Instrumented product analytics with **Mixpanel** to prioritize the roadmap with evidence.
+
+Looking for **Product Engineer** or **Full-Stack Engineer** roles in B2B SaaS where I can own outcomes from customer problem to production.
+
+---
+
+## Writing
+
+I write about the technical decisions behind this work at **[francoc.dev/articles](https://francoc.dev/articles)**:
+
+- *Designing a Secure REST + MCP API for a Multi-Tenant SaaS*
+- *Building a Production QuickBooks Integration, Then an Event-Driven Engine for What Came Next*
+- *Designing RBAC, Support Access, and MFA Without Lockouts*
+
+---
+
+## Open Source
+
+Contributor to [Reactive Resume](https://github.com/AmruthPillai/Reactive-Resume), [Checkmate](https://github.com/bluewave-labs/Checkmate) and Openship.
 
 ---
 
@@ -50,8 +73,13 @@ I combine product judgment with hands-on engineering across TypeScript, Next.js,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Payments
+### Payments & Integrations
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
+![Xero](https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,6 +95,9 @@ I combine product judgment with hands-on engineering across TypeScript, Next.js,
 ---
 
 ## Certifications
+
+**AWS**
+- [AWS Serverless Demonstrated](https://www.credly.com/badges/3a3e52b6-dd9e-46c1-889e-05f7fa8cada0) (Nov 2026) — hands-on exam lab with Lambda, API Gateway, Step Functions and DynamoDB
 
 **Anthropic** — Applied AI Development
 - Introduction to Model Context Protocol (MCP)
@@ -93,10 +124,10 @@ I combine product judgment with hands-on engineering across TypeScript, Next.js,
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/francoc.dev-000000?style=for-the-badge&logo=safari&logoColor=white)](https://francoc.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francocarrara)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)]([https://rxresu.me/francocdev/en](https://rxresu.me/francocdev/franco-carrara-full-stack-engineer))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francocarrara/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white)](https://rxresu.me/francocdev/franco-carrara-full-stack-engineer)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@francoc.dev)
 
 ---
 
-> *"I build software that moves the needle — from architecture to customer impact."*
+> *"From customer problem to production."*
